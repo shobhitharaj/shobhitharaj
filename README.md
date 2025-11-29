@@ -3,7 +3,7 @@ I am engineering student !
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shxbhxtha._07) linkedin.com/in/shobhitha-raj-bbb321373
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shxbhxtha._07) linkedin.com/in/www.linkedin.com/in/shobhitha-raj-bbb321373
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhitharaj07@gmail.com) 
 
 # 💻 Tech Stack:
